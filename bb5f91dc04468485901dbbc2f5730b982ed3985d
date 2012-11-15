@@ -1,0 +1,11 @@
+Change-Id: Ibb5f91dc04468485901dbbc2f5730b982ed3985d
+Code-Review+2: Robert Spanton <rspanton@zepler.net>
+Verified+1: Robert Spanton <rspanton@zepler.net>
+Code-Review+1: Richard Barlow <richard@richardbarlow.co.uk>
+Verified+1: Richard Barlow <richard@richardbarlow.co.uk>
+Code-Review+1: Alistair Lynn <alynn@studentrobotics.org>
+Submitted-by: Robert Spanton <rspanton@zepler.net>
+Submitted-at: Thu, 15 Nov 2012 14:32:09 +0000
+Reviewed-on: https://www.studentrobotics.org/gerrit/15
+Project: rules-sr2013
+Branch: refs/heads/master
