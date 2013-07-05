@@ -1,1 +1,3 @@
-ldap:cn=sc,ou=groups,o=sr		ldap/sc
+# UUID                                  	Group Name
+#
+ldap:cn=sc,ou=groups,o=sr               	ldap/sc
